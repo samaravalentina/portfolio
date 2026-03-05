@@ -24,7 +24,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="/Samara-Valentina-Full-Stack-Developer.pdf"
+          href="/curriculo-samara-desenvolvimento.pdf"
           className="border border-gray-300 dark:border-gray-600 px-6 py-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition"
         >
           Baixar CV
